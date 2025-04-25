@@ -11,7 +11,7 @@
     font-family:'Poppins', sans-serif ;
 }
 body{
-    background-color: #18f;
+    background-color: yellow;
     flex-direction: column;
     align-items: center;
     display: flex;
